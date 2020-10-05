@@ -1,0 +1,13 @@
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.exe
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.deps.json
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.runtimeconfig.json
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.runtimeconfig.dev.json
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.dll
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.pdb
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.csprojAssemblyReference.cache
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.AssemblyInfoInputs.cache
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.AssemblyInfo.cs
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.csproj.CoreCompileInputs.cache
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.dll
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.pdb
+D:\Универ\Курсы по C#\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.genruntimeconfig.cache
